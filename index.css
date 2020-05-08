@@ -52,7 +52,7 @@ main {
 
 .banner {
   background-color: black;
-  background-image: url('/images/sunset-wallpaper.jpeg');
+  background-image: url('https://github.com/thinkful-ei-orka/Victor-Portfolio/blob/master/images/sunset-wallpaper.jpeg?raw=true');
   background-position: center;
   background-size: cover;
   margin: 0 10px;
