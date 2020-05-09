@@ -79,14 +79,6 @@ section:nth-child(even) {
   border-radius: 2px;
 }
 
-p {
-  margin: 5px auto;
-}
-
-.tech-text {
-  color: gold;
-}
-
 h2, .avatar, .portfolio-screenshot {
   display: flex;
   justify-content: center;
